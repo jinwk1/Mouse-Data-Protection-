@@ -1,0 +1,3 @@
+feature
+
+elapsed time, X, Y, curX-preX, curY-preY, mal/ben
